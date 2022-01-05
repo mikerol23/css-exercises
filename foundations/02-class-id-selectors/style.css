@@ -1,0 +1,19 @@
+.main {
+    background-color: thistle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#bigblue {
+    color: blue;   
+    font-size: 36px;
+}
+
+.main.plus {
+    font-size: 24px;
+}
+
+#neon {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
