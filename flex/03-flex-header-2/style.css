@@ -19,15 +19,15 @@ body {
 
 .left-items {
   display: flex;
-  justify-content: space-around;
-  margin-left: 8px;
+  gap: 16px;
+  margin-left: 16px;
 }
 
 .right-items {
   display: flex;
   justify-content: space-around;
   margin-right: 8px;
-  gap: 8px;
+  gap: 16px;
 }
 .profile-image {
   background: rebeccapurple;
@@ -61,5 +61,6 @@ a {
 ul {
   list-style-type: none;
   display: flex;
-  gap: 24px;
+  padding: 0px;
+  gap: 16px;
 }
